@@ -1,0 +1,17 @@
+.nav--tabs{
+    background-color: black !important;
+    position: fixed;
+    top: 2.5rem !important;
+    transition: all 0.5s ease-in ;
+}
+
+.nav--tabs2{
+    background-color: black !important;
+    position: fixed;
+    top: 0 !important;
+    transition: all 0.5s ease-in ;
+}
+
+.nav--top{
+    margin-top: 4rem;
+}

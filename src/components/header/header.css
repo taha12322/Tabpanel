@@ -1,0 +1,29 @@
+.nav--header{
+    width: 100%;
+    background-color: black;
+    position: fixed;
+    top: 0;
+    box-sizing: border-box;
+    padding: 1rem;
+
+}
+
+.nav--header2{
+    width: 100%;
+    background-color: black;
+    position: fixed;
+    top: -10%;
+    box-sizing: border-box;
+    padding: 1rem;
+}
+
+.nav--items{
+    justify-content: space-between;
+    display: flex;
+    width: 100%;
+
+}
+
+.nav--items img {
+    width: 20px;
+}
